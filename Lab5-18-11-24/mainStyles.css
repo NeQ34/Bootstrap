@@ -1,0 +1,22 @@
+.homeContainer{
+    color: rebeccapurple;
+}
+h1{
+    background-color: rebeccapurple;
+    color: aliceblue;
+}
+.menuBarContainer{
+    background-color: rebeccapurple;
+}
+.menuItem:hover{
+    background-color: aliceblue;
+    border-radius: 25px;
+}
+img{
+    width: 250px;
+    height: 300px;
+}
+#walterCooking{
+    width: 1000px;
+    height: 1000px;
+}
